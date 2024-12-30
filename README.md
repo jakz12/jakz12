@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node js project.
-- 🌱 I’m experience flutter developer.
+- 🌱 I’m a experienced flutter developer.
 - 💬 Ask me about  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
